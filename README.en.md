@@ -67,7 +67,7 @@
 <hr>
 <div id="contact" align="center">
   <h3>📧 Contact: carlosocharly1@hotmail.com </h3>
-  <p>If you're interested in collaborating on a project or discussing front-end development, feel free to reach out!</p>
+  <p>If you're interested in collaborating on a project or discussing full stack development, feel free to reach out!</p>
 </div>
 <div id="badges" align="center">
   <a href="mailto:carlosocharly1@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
