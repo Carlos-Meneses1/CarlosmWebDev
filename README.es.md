@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1 align="center">Hola 👋, soy Carlos Meneses</h1>
+  <h1 align="center">Hola 👋, Soy Carlos Meneses</h1>
   <h3>
     Desarrollador Front-End con experiencia en desarrollo Full-Stack. Me apasiona crear interfaces web visualmente atractivas, funcionales y fáciles de usar. Siempre estoy desarrollando nuevos proyectos y aprendiendo de forma continua.
   </h3>
